@@ -1,0 +1,31 @@
+/**
+ * @name         Homestuck Theme
+ * @description  Discord convos now look like homestuck chatlogs. Exactly what's in the title.
+ * @author       mmmelp#2406
+ * @version      0.0
+ * @source       
+ * @website      melps.neocities.org
+ */
+
+ 
+
+ :root {
+     --background-primary: #eeeeee;
+    
+ }
+
+ .message-2CShn3 {
+    font-size: 14px;
+    font-family: 'Courier New';
+			
+ }
+ .messageContent-2t3eCI {
+    font-weight: bold;
+}
+.username-h_Y3Us {
+ font-weight:bold;
+}
+
+.button-1EGGcP {
+    color:black;
+}
